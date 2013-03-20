@@ -12,8 +12,7 @@ Installation
 ============================
 
 On Unix systems,
->cd source
-
+>cd source <br>
 >make
 
 Run them without arguments to show the usages of them.
