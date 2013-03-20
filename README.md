@@ -13,7 +13,6 @@ Installation
 
 On Unix systems,
 >cd source
-
 >make
 
 Run them without arguments to show the usages of them.
