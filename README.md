@@ -22,11 +22,11 @@ Data Format
 
 Input = distance matrix whose format the same with one for phylip:
 
-4
-seq1 0 4.1 5.1 5.1
-seq2 4.1 0 7.1 3.1 
-seq3 5.1 7.1 0 9.1
-seq4 5.1 3.1 9.1 0
+4<br>
+seq1 0 4.1 5.1 5.1<br>
+seq2 4.1 0 7.1 3.1<br>
+seq3 5.1 7.1 0 9.1<br>
+seq4 5.1 3.1 9.1 0<br>
 
 Output = compact set relation in newick format:
 
