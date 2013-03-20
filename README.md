@@ -41,10 +41,10 @@ For instance:
 >fcs example/distance1.txt example/cs1.ph
 
 running information: <br>
-[SUMMARY]
-\# of veterx = 4
-\# of edges  = 7 6
-compact set = seq2,seq4,
+[SUMMARY]<br>
+\# of veterx = 4<br>
+\# of edges  = 7 6<br>
+compact set = seq2,seq4,<br>
 
 Additional Information
 ======================
