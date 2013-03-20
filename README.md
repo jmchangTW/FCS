@@ -40,10 +40,10 @@ Usage: fcs distance_matrix_file compact-set_output_file
 For instance:
 >fcs example/distance1.txt example/cs1.ph
 
-running information:
+running information: <br>
 [SUMMARY]
-# of veterx = 4
-# of edges  = 7 6
+\# of veterx = 4
+\# of edges  = 7 6
 compact set = seq2,seq4,
 
 Additional Information
