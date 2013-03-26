@@ -49,11 +49,11 @@ compact set = seq2,seq4,<br>
 Additional Information
 ======================
 
-Reference: 
+Reference:  
 Kim, SK. 1996. A note on finding compact sets in graphs represented by an adjacency list. Information Processing Letters 57:335-338.
 T.H. Corman, C.E. eiserson and R.L. Rivest, 1994, Introduction to Algorithms,ch.22 24
 
-If you find FCS helpful, please cite it as
+If you find FCS helpful, please cite it as  
 Chang, JM, CY Tang, CL Chang. 2002. Compact Set Neighboring Relation and Its Application in the Evaluating the Evolution Tree. the Workshop on Algorithms and Computational Molecular Biology, International Computer Symposium. Hualien, Taiwan.
 
 Creative Commons License 
